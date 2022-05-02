@@ -459,9 +459,9 @@ let MainCardsContainerItems =[
     link2Href: '#',
     link2Txt: 'BestSellers',
     iconImgSrc:
-      'https://assets.market-storefront.envato.com/storefront/packs/media/images/category-icons/themeforest/wordpress-38017feb3efbc9d223cfb8472fba3cb8.svg',
+      'https://assets.market-storefront.envato-static.com/storefront/assets/category-icons/themeforest/wordpress-c4a4c90a55e94cdf642e0d8e6b58795b144aa04d143ac4f010058190a543122f.svg',
     cardImgSrc:
-      'https://assets.market-storefront.envato.com/storefront/packs/media/images/home/themeforest/category-tiles-wordpress-04e605078599969bc24c2b465b73d1a3.png',
+      'https://assets.market-storefront.envato-static.com/storefront/assets/home/themeforest/category-tiles-wordpress-802eded4e9613dd2af036a89c30f89137d4b085704137a8c7049ba3dc08a762c.png',
     cardImgAlt: 'WordPress Themes',
   },
   {
@@ -473,9 +473,9 @@ let MainCardsContainerItems =[
     link2Href: '#',
     link2Txt: 'BestSellers',
     iconImgSrc:
-      'https://assets.market-storefront.envato.com/storefront/packs/media/images/category-icons/themeforest/ecommerce-6764e61d48ed9f67fcef55f6276819b8.svg',
+      'https://assets.market-storefront.envato-static.com/storefront/assets/category-icons/themeforest/ecommerce-d29cfac809c6b1f7ccc32afc149bef5f1e2a401138811b817a2dee80215c8bc9.svg',
     cardImgSrc:
-      'https://assets.market-storefront.envato.com/storefront/packs/media/images/home/themeforest/category-tiles-ecommerce-d069e8d98640114a13897ad7475202c8.png',
+      'https://assets.market-storefront.envato-static.com/storefront/assets/home/themeforest/category-tiles-ecommerce-18342ace866d1ee725057aa0674532adc7bd391fa23ed0c140a8d97ab52a61c3.png',
     cardImgAlt: 'eCommerce Templates',
   },
   {
@@ -487,9 +487,9 @@ let MainCardsContainerItems =[
     link2Href: '#',
     link2Txt: 'BestSellers',
     iconImgSrc:
-      'https://assets.market-storefront.envato.com/storefront/packs/media/images/category-icons/themeforest/site-templates-4b524d1996efd02a14b8a78d6f827e04.svg',
+      'https://assets.market-storefront.envato-static.com/storefront/assets/category-icons/themeforest/site-templates-45d4d1c09aed48fb32c10ff9ae265250c62023e584a98fc80280f0014ff922ad.svg',
     cardImgSrc:
-      'https://assets.market-storefront.envato.com/storefront/packs/media/images/home/themeforest/category-tiles-site-templates-e4da8eef2122e7d2c0178b1d5a63251f.png',
+      'https://assets.market-storefront.envato-static.com/storefront/assets/home/themeforest/category-tiles-site-templates-2435295dad697854145e340d3dc130f2265e14881d9f936bee34dfc73b3a6c73.png',
     cardImgAlt: 'Site Templates',
   },
   {
@@ -501,9 +501,9 @@ let MainCardsContainerItems =[
     link2Href: '#',
     link2Txt: 'BestSellers',
     iconImgSrc:
-      'https://assets.market-storefront.envato.com/storefront/packs/media/images/category-icons/themeforest/marketing-bfe20e6450d91d1d92e89f512af5cfe8.svg',
+      'https://assets.market-storefront.envato-static.com/storefront/assets/category-icons/themeforest/marketing-6da58cc5ee144983487963114930eb683157422436d12076b8c4a7f36df14d89.svg',
     cardImgSrc:
-      'https://assets.market-storefront.envato.com/storefront/packs/media/images/home/themeforest/category-tiles-marketing-aa0c86ed0c48d27c47350a89b393268a.png',
+      'https://assets.market-storefront.envato-static.com/storefront/assets/home/themeforest/category-tiles-marketing-f496a6f8c6684f9becb4f9bcdad23734ae8801663f31b1d9048763ddb1dcddf4.png',
     cardImgAlt: 'Marketing Templates',
   },
   {
@@ -515,9 +515,9 @@ let MainCardsContainerItems =[
     link2Href: '#',
     link2Txt: 'BestSellers',
     iconImgSrc:
-      'https://assets.market-storefront.envato.com/storefront/packs/media/images/category-icons/themeforest/cms-themes-69e2462231b345dca78df22eee42c3d0.svg',
+      'https://assets.market-storefront.envato-static.com/storefront/assets/category-icons/themeforest/cms-themes-8fd2d0354a939e03d55825ef92e579367d60c1c051a3fe588295cea21cfbedd8.svg',
     cardImgSrc:
-      'https://assets.market-storefront.envato.com/storefront/packs/media/images/home/themeforest/category-tiles-cms-themes-dcf193e313c6cc9c0f9b26a394bb3283.png',
+      'https://assets.market-storefront.envato-static.com/storefront/assets/home/themeforest/category-tiles-cms-themes-35746d842196e741e0fadfdcb8cf32383392137c46da0cfe0413ca4620cbab2f.png',
     cardImgAlt: 'CMS Templates',
   },
   {
@@ -529,9 +529,9 @@ let MainCardsContainerItems =[
     link2Href: '#',
     link2Txt: 'BestSellers',
     iconImgSrc:
-      'https://assets.market-storefront.envato.com/storefront/packs/media/images/category-icons/themeforest/blogging-96fbea50c1aa03e434845f5795e8aa2f.svg',
+      'https://assets.market-storefront.envato-static.com/storefront/assets/category-icons/themeforest/blogging-a66e0853408aee82becbeb35f98f8edc35dee1a9475682b7fbc7428ff547400d.svg',
     cardImgSrc:
-      'https://assets.market-storefront.envato.com/storefront/packs/media/images/home/themeforest/category-tiles-blogging-a36c3a96508905ed8b77df66c9e8d4cf.png',
+      'https://assets.market-storefront.envato-static.com/storefront/assets/home/themeforest/category-tiles-blogging-7b37c1a9941589af94f8d4225c9fbad018a541c60338704506b00d7005b159bc.png',
     cardImgAlt: 'Blogging',
   }
 ]
@@ -603,7 +603,7 @@ export default function MyApp() {
     <div  className="body" style={{backgroundColor: '#eceef5'}}>
       <Header 
         TopMenuItems= {TopMenuItems}
-        logo= {'https://assets.market-storefront.envato.com/storefront/packs/media/images/logos/envato-market-f6121fbbfec25dbc851a3e5aea13c8ad.svg'}
+        logo= {'https://assets.market-storefront.envato-static.com/storefront/assets/logos/envato-market-a5ace93f8482e885ae008eb481b9451d379599dfed24868e52b6b2d66f5cf633.svg'}
         dropdownTxt= {'Our Products'}
         Options={Options}
         menuIconTxt= {'Sign In'}
@@ -621,8 +621,8 @@ export default function MyApp() {
           paraTxt={
             'WordPress themes, web templates and more. Brought to you by the largest global community of creatives.'}
           imgSrc={
-            'https://assets.market-storefront.envato.com/storefront/packs/media/images/home/themeforest/search-header-e9b1f87ec2352b50a7d1b2da92ee268d.png'}
-          imgAlt={'Surfing and water sports theme'}
+            'https://assets.market-storefront.envato-static.com/storefront/assets/home/themeforest/experiments/hero-image--popular-items-45e049c6e45b12f43ecafdc960d7bb581203b40857dfce5938af6f43627731d4.png'}
+          imgAlt={'Best selling themes'}
           btnTxt={'Search'}
           placeholder={'e.g. responsive WordPress'}
         />
@@ -640,13 +640,13 @@ export default function MyApp() {
             title= {'Were the largest theme marketplace in the world'}
             card1Txt= {'Home of the most popular themes in the world'}
             card1ImgSrc=
-              {'https://assets.market-storefront.envato.com/storefront/packs/media/images/home/value-prop-icons/popular-f17ddb16bbcfb47b4d24656ef9bf5fa3.svg'}
+              {'https://assets.market-storefront.envato-static.com/storefront/assets/home/value-prop-icons/popular-0e4b4113a86af83586b8bfec31da9b73f773837dd936168f719a8ab3c3d3bf9a.svg'}
             card2Txt= {'Clear documentation and theme support available'}
             card2ImgSrc=
-              {'https://assets.market-storefront.envato.com/storefront/packs/media/images/home/value-prop-icons/support-eaac5e66c8a5454ed083346094e404cd.svg'}
+              {'https://assets.market-storefront.envato-static.com/storefront/assets/home/value-prop-icons/support-8f9ed08357bca18207252cd261f5ab3990a1ac33dbec78751eaa480ad89d3ac4.svg'}
             card3Txt= {'Quality reviewed creators and items'}
             card3ImgSrc=
-              {'https://assets.market-storefront.envato.com/storefront/packs/media/images/home/value-prop-icons/quality-1b3c0c21025219fdff69803474a2e018.svg'}
+              {'https://assets.market-storefront.envato-static.com/storefront/assets/home/value-prop-icons/quality-cdf81e8e618357620fcc22f6474aa4c47de3c439a239de26b9dcf13c74b1a96e.svg'}
         />
       </div>
       <Footer1 
