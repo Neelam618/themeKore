@@ -24,13 +24,13 @@ let Options = [
   optionTxt: 'Digital Assets Subscription',
   href: '#',
   logoInOption:
-    'https://assets.market-storefront.envato.com/storefront/packs/media/images/logos/envato-elements-4de52b67c96ca63c1b764d39b573a7af.svg',
+    'https://assets.market-storefront.envato-static.com/storefront/assets/logos/envato-elements-93296989e268af4b90133a4016d66fa11eeab8340c5c90d9a172427209e8d492.svg',
   },
   {
     optionTxt: 'Hire a freelancer',
     href: '#',
     logoInOption:
-      'https://assets.market-storefront.envato.com/storefront/packs/media/images/logos/envato-studio-df1d5447eb8bd2d54ef22aa4b03d160a.svg',
+      'https://assets.market-storefront.envato-static.com/storefront/assets/logos/envato-studio-29c37e569f1893b91c3075752218632d0a83896d2baa6c5ba327edc60c366771.svg',
   }
 ]
 
